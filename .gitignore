@@ -1,1 +1,47 @@
 training/PlantVillage
+training/PlantVillage.zip
+training/train_torch.ipynb
+training/.ipynb_checkpoints
+
+
+# android
+android/*.iml
+android/.gradle
+android/local.properties
+android/.idea/caches
+android/.idea/libraries
+android/.idea/modules.xml
+android/.idea/workspace.xml
+android/.idea/navEditor.xml
+android/.idea/assetWizardSettings.xml
+android/.DS_Store
+android/build
+android/captures
+android/.externalNativeBuild
+android/.cxx
+android/local.properties
+
+# react frontend
+view/logs
+view/*.log
+view/npm-debug.log*
+view/yarn-debug.log*
+view/yarn-error.log*
+view/pnpm-debug.log*
+view/lerna-debug.log*
+
+view/node_modules
+view/dist
+view/dist-ssr
+view/*.local
+
+# Editor directories and files
+view/.vscode/*
+view/!.vscode/extensions.json
+view/.idea
+view/.DS_Store
+view/*.suo
+view/*.ntvs*
+view/*.njsproj
+view/*.sln
+view/*.sw?
